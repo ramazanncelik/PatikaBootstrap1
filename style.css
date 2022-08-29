@@ -1,0 +1,11 @@
+
+    /* bootstrap üzerine yazması için important gerekli oldu
+    body {background-color:#E9ECEF}
+a:hover {
+    color: royalblue; !important;
+}
+    */
+
+a:hover {
+    color:royalblue !important}
+    body {background-color:#E9ECEF}
